@@ -297,6 +297,7 @@ namespace Maori_Quiz_NCEA
 
                             else
                             {
+                                //
                                 Console.WriteLine("thank i will try to make it better"); // If the answer is bad show this
 
                             }
